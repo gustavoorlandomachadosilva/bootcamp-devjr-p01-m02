@@ -108,3 +108,32 @@ input{
     font-weight: 600;
 }
 
+/*Responsividade*/
+@media screen and (max-width: 375px){
+    .container{
+        width: 100%;
+    }
+    br{
+        display: none;
+    }
+    .title-form{
+        margin: 30px 2px 0 2px;
+    }
+    input{
+        margin: 20px;
+        width: 85%;
+    }
+    .container-cards{
+        flex-direction: column;
+    }
+    .card1, .card2, .card3{
+        width: 65%;
+        margin: auto auto 20px auto;
+        font-size: 12px;
+    }
+    .card1 button, .card2 button , .card3 button{
+        width: 50%;
+        height: 50px;
+    }
+
+}
