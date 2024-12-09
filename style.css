@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: #F7FFFF;
+    text-align: center;    
+    font-size: 16px;
+    
+}
+
+h1{
+    color: #F3C423;
+    text-align: center;
+    margin-bottom: 30px;
+}
+/*.container{
+    background-color: #210D25;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.container-form{
+    background-color: #5A1C64;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 4% 0 4%;
+}*/
+
